@@ -6,7 +6,7 @@ This project keeps things **simple, cozy, and useful**, but not cringe. Probably
 
 ---
 
-## ✨ Features
+## Features
 
 - **Chat with memory** (conversations persist per-session)
 - **Personal context support** (the assistant can be warm + helpful + tailored)
