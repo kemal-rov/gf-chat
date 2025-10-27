@@ -18,7 +18,7 @@ This project keeps things **simple, cozy, and useful**, but not cringe. Probably
 
 ---
 
-## 🧠 Model Modes
+## Model Modes
 
 | Mode | Flag | Model Used | Use Case |
 |------|------|------------|----------|
@@ -29,7 +29,7 @@ You can switch per message. No subscription required — usage billed to your Op
 
 ---
 
-## 🚀 Setup
+## Setup
 
 1. Clone the repo
 2. Create `.env` file:
@@ -54,7 +54,7 @@ source ~/.zshrc
 
 ---
 
-## 💬 Usage
+## Usage
 
 ### Basic chat
 ```
@@ -74,7 +74,7 @@ chat --session stream "overlay ideas please"
 
 ---
 
-## 📝 Notes & Learning
+## Notes & Learning
 
 ### Save full response as notes
 ```
@@ -100,7 +100,7 @@ Perfect for studying / self-improvement.
 
 ---
 
-## 🧹 Cleanup
+## Cleanup
 
 ### Clear chat memory for a session
 ```
