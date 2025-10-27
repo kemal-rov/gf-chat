@@ -1,0 +1,27 @@
+{
+  "name": "gf-chat",
+  "version": "1.0.0",
+  "description": "Just a simple OpenAI wrapper for my GF so she can make 50 and 50-mini API calls (pay as you go) without needing unnecessary subscription.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chat": "ts-node src/chat.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-private:kemal-rov/gf-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
